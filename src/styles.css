@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+  text-align: center;
+}
+
+td {
+  padding: 0.5rem;
+  white-space: nowrap;
+  width: 5%;
+}
+
+th {
+  padding: 1rem;
+  background-color: #f2f2f2;
+  font-weight: bold;
+  text-align: center;
+}
